@@ -19,7 +19,7 @@ export default function HomeScreen() {
       />
 
       <ImageCard
-        imageSource={require('../assets/natureza2.jpg')}
+        imageSource={require('../assets/natureza2.png')}
         caption="Cuidando do nosso planeta"
       />
     </View>
