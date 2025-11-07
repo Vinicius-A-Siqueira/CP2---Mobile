@@ -10,7 +10,7 @@ Aplicativo desenvolvido em **React Native** com **Expo** para conscientização 
 
 ## Video no Youtube
 
-- **Link do Video** 
+- **Link do Video**:  https://youtu.be/307ElHMdjOA?si=B3UaLmERywEje1vF
 
 ## 📱 Sobre o Projeto
 
