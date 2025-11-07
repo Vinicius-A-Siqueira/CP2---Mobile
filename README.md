@@ -8,6 +8,10 @@ Aplicativo desenvolvido em **React Native** com **Expo** para conscientização 
 - **Gabriel Camargo Ravanhani** - RM: 557879
 - **Kauan Felipe** - RM: 557954
 
+## Video no Youtube
+
+- **Link do Video** 
+
 ## 📱 Sobre o Projeto
 
 O **EcoConsciente** é um aplicativo mobile inovador que promove a conscientização ambiental através de uma interface moderna e intuitiva. O app oferece:
